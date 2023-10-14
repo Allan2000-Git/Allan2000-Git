@@ -48,7 +48,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 ## Github Trophy Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&theme=radical)](https://github.com/Allan2000-Git/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&margin-h=15&theme=radical)](https://github.com/Allan2000-Git/github-profile-trophy)
 
 
 ## 📫 How to reach me
