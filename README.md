@@ -63,6 +63,9 @@ Let's connect and collaborate! You can find me on:
   <a href="https://github.com/Allan2000-Git/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="mailto:allanfernandes459@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Github Badge"/>
+  </a>
 </div>
 
 I'm excited to explore new opportunities, learn from fellow developers and designers, and continue creating beautiful and functional digital solutions. Let's work together to make the web a more delightful place!
