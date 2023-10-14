@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔧 Technologies and Tools
-
-- **Languages:** [List the programming languages you're proficient in]
-- **Web Development:** [List web technologies, frameworks, and tools]
-- **Database:** [List databases you work with]
-- **Version Control:** [Version control systems like Git]
 
 ## 💼 Work
 
@@ -50,6 +44,11 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 **Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 **Tools:** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## Github Trophy Status
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 How to reach me
