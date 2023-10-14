@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - Transforming ideas into interactive, user-friendly web applications.
   - Collaborating with cross-functional teams to create seamless user experiences.
   - Implementing cutting-edge design concepts for stunning UI/UX.
-
+ 
 ## 🌱 Currently Exploring
 
 I'm constantly learning and expanding my skill set. Right now, I'm diving deeper into:
