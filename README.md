@@ -50,7 +50,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/Allan2000-Git/github-profile-trophy)
 
-[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2000-Git&show_icons=true&theme=radical)](https://github.com/Allan2000-Git/github-readme-stats)
+[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2000-Git&show_icons=true&theme=radical)](https://github.com/Allan2000-Git/github-readme-stats) [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=radical)](https://github.com/Allan2000-Git)
 
 
 ## 📫 How to reach me
