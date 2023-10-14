@@ -46,7 +46,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 **Tools:** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Github Trophy Status
+## 🏆 Github Trophy Status
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/Allan2000-Git/github-profile-trophy)
 
@@ -59,7 +59,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 Let's connect and collaborate! You can find me on:
 
-<div id="badges">
+<div id="badges" style="margin-bottom:30px">
   <a href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
