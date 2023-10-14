@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
-- Frontend/UX Developer at [Your Current Company]
+- Frontend/UX Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - Transforming ideas into interactive, user-friendly web applications.
   - Collaborating with cross-functional teams to create seamless user experiences.
   - Implementing cutting-edge design concepts for stunning UI/UX.
@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 I'm constantly learning and expanding my skill set. Right now, I'm diving deeper into:
 
-- Frontend Development: [List the technologies you're currently working with]
-- UX/UI Design: [Mention any design tools or practices you're exploring]
+- Frontend Development Frameworks: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 
 ## 🚀 My Superpowers
 
@@ -42,16 +41,27 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - **UI/Visual Design:** Creating elegant and user-centric designs with a keen eye for aesthetics.
 - **User Experience (UX):** Ensuring a seamless and intuitive user journey through thoughtful UX design.
 
-## 💼 Technical Skills
+## 🔧 Technologies and Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-## 📫 Get in Touch
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 📫 How to reach me
 
 Let's connect and collaborate! You can find me on:
 
-- GitHub: [Your GitHub profile link]
-- LinkedIn: [Your LinkedIn profile link]
-- Email: (allanfernandes459@gmail.com)
+<div id="social-icons" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/LinkedIn-blue)" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/Twitter-blue)" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/LinkedIn-blue)" width="100"/>
+</div>
 
 I'm excited to explore new opportunities, learn from fellow developers and designers, and continue creating beautiful and functional digital solutions. Let's work together to make the web a more delightful place!
