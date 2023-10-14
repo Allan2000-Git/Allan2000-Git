@@ -59,7 +59,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 Let's connect and collaborate! You can find me on:
 
-<div id="badges" style="margin-bottom:30">
+<div id="badges" style="margin-bottom:30px">
   <a href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -70,7 +70,6 @@ Let's connect and collaborate! You can find me on:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
-
 
 
 I'm excited to explore new opportunities, learn from fellow developers and designers, and continue creating beautiful and functional digital solutions. Let's work together to make the web a more delightful place!
