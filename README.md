@@ -59,7 +59,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 Let's connect and collaborate! You can find me on:
 
-<div id="badges" style="margin-bottom:30px">
+<div id="badges" style="margin-bottom:30">
   <a href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
