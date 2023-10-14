@@ -1,5 +1,5 @@
-### Hi there👋
-I'm Allan Joston Fernandes, a passionate Frontend/UX developer and UI/Visual Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
+### Hi there, I'm Allan Joston Fernandes👋
+A passionate Frontend/UX developer and UI/Visual Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
 
 <!--
 **Allan2000-Git/Allan2000-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
