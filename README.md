@@ -36,7 +36,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 ## 🚀 My Superpowers
 
-- **Frontend Development:** Crafting responsive and performant web applications with HTML, CSS, and JavaScript.
+- **Frontend Development:** Crafting responsive and performant web applications with HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap.
 - **UI/Visual Design:** Creating elegant and user-centric designs with a keen eye for aesthetics.
 - **User Experience (UX):** Ensuring a seamless and intuitive user journey through thoughtful UX design.
 
