@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
-- Frontend/Webflow Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
+- Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - Transforming ideas into interactive, user-friendly web applications.
   - Collaborating with cross-functional teams to create seamless user experiences.
   - Implementing cutting-edge design concepts for stunning UI/UX.
  
-- Full Stack Developer at [Coding Key LLP](https://www.linkedin.com/company/coding-key-llp)
+- Founding Member - Web Developer & Designer at [Swavy](https://swavy.in/)
+  - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
+  - Translated designs into code using HTML, CSS, and Javascript for seamless development.
+ 
+- Full Stack Developer Intern at [Coding Key LLP](https://www.linkedin.com/company/coding-key-llp)
   - Led cross-functional team to build NBA points calculation app using MERN Stack.
   - Implemented CRUD functionality and dynamic data visualization with MongoDB.
   - Achieved 60% time savings, streamlining academic processes.
