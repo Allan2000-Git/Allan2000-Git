@@ -67,7 +67,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 Let's connect and collaborate! You can find me on:
 
-<div id="badges" style="margin-bottom:30px">
+<div id="badges" style="margin-bottom:30px; display:flex; gap:20px">
   <a href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -76,6 +76,9 @@ Let's connect and collaborate! You can find me on:
   </a>
   <a href="mailto:allanfernandes459@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://www.behance.net/allanfernandes6">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
 
