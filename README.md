@@ -81,6 +81,9 @@ Let's connect and collaborate! You can find me on:
   <a href="https://www.behance.net/allanfernandes6">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/allanfernandes41">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
 </div>
 
 
