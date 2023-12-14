@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - Transforming ideas into interactive, user-friendly web applications.
   - Collaborating with cross-functional teams to create seamless user experiences.
   - Implementing cutting-edge design concepts for stunning UI/UX.
-  - Learn Next.js and contribute to the product by building user interface.
+  - Learn and contribute to the product by building user interface using Next.js.
  
 - Founding Member - Web Developer & Designer at [Swavy](https://swavy.in/)
   - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
