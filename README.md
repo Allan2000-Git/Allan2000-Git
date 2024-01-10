@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - <strong>Product:</strong>
   - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
   - Demonstrated technical proficiency in meeting project requirements.
-  - Marketing:
+  - <strong>Marketing:</strong>
   - Achieved rapid page loads, 7% higher mobile engagement, and seamlessly integrated a custom CMS.
   - Collaborated on SEO, yielding a 5% surge in organic traffic.
  
