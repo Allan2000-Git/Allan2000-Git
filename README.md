@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 💼 Work
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
-  - Product:
+  - <strong>Product:</strong>
   - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
   - Demonstrated technical proficiency in meeting project requirements.
   - Marketing:
