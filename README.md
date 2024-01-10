@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 ## 💼 Work
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
-  - Transforming ideas into interactive, user-friendly web applications.
-  - Collaborating with cross-functional teams to create seamless user experiences.
-  - Implementing cutting-edge design concepts for stunning UI/UX.
-  - Learn and contribute to the product by building user interface using Next.js.
+  Product:
+  - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
+  - Demonstrated technical proficiency in meeting project requirements.
+  Marketing:
+  - Achieved rapid page loads, 7% higher mobile engagement, and seamlessly integrated a custom CMS.
+  - Collaborated on SEO, yielding a 5% surge in organic traffic.
  
 - Founding Member - Web Developer & Designer at [Swavy](https://swavy.in/)
   - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
