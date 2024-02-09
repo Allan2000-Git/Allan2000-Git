@@ -43,7 +43,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 ## 🚀 My Superpowers
 
 - **Frontend Development:** Crafting responsive and performant web applications with HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Hyper UI, Node.js, SQL, MongoDB, Bootstrap.
-- **UI/Visual Design:** Creating elegant and user-centric designs with a keen eye for aesthetics.
+- **UI/Visual Design:** Creating elegant and user-centric designs with a keen eye for aesthetics using Figma & Adobe XD.
 - **User Experience (UX):** Ensuring a seamless and intuitive user journey through thoughtful UX design.
 
 ## 🔧 Technologies and Tools
