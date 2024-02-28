@@ -67,6 +67,10 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 
 [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=onedark)](https://github.com/Allan2000-Git)
 
+## Coding Profiles
+- Leetcode: https://leetcode.com/allanjoston/
+- HackerRank: https://www.hackerrank.com/allanfernandes41
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
 
 ## 📫 How to reach me
 
