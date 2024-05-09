@@ -96,7 +96,7 @@ Let's connect and collaborate! You can find me on:
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://twitter.com/allan_ferns10">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 
