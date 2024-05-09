@@ -73,6 +73,8 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - HackerRank: https://www.hackerrank.com/allanfernandes41
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
 
+[![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 ## 📫 How to reach me
 
 Let's connect and collaborate! You can find me on:
