@@ -1,7 +1,7 @@
 # Hey there, I'm Allan Joston Fernandes👋
 [![An image of @allan1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/allan1011)](https://holopin.io/@allan1011)
 
-A passionate Frontend Developer and Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
+A passionate Frontend Engineer and UI/UX Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
 
 <!--
 **Allan2000-Git/Allan2000-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
