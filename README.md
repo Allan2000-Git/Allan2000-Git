@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
   - Translated designs into code using HTML, CSS, and Javascript for seamless development.
  
-- Full Stack Developer Intern at [Coding Key LLP](https://www.linkedin.com/company/coding-key-llp)
+- Software Engineer Intern at [Coding Key LLP](https://www.linkedin.com/company/coding-key-llp)
   - Led cross-functional team to build NBA points calculation app using MERN Stack.
   - Implemented CRUD functionality and dynamic data visualization with MongoDB.
   - Achieved 60% time savings, streamlining academic processes.
