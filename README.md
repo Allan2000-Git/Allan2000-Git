@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
+- Software Engineer 1 - Frontend at Classcard
+
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - <strong>Product:</strong>
   - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
