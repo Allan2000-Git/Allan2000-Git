@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
-- Software Engineer I - Frontend at [Classcard](https://github.com/Reportcard)
+- Software Engineer I - Frontend at [Classcard](https://github.com/Reportcard) (Previously ReportCard)
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - <strong>Product:</strong>
