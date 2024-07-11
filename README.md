@@ -75,6 +75,10 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - HackerRank: https://www.hackerrank.com/allanfernandes41
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
 
+## Achievements
+- Participated in Hacktoberfest for consecutive 3 years.
+- Participated in MLH Hackathon and was shortlisted under Top 50 teams.
+
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 📫 How to reach me
