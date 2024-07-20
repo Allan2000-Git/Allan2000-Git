@@ -1,4 +1,4 @@
-# Hey there, I'm Allan Joston Fernandes👋
+# Hey there, I'm Allan Joston Fernandes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 [![An image of @allan1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/allan1011)](https://holopin.io/@allan1011)
 
 A passionate Frontend Software Engineer and UI/UX Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
