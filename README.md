@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💼 Work
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="55" height="55" /> Work
 
 - Software Engineer I - Frontend at [Classcard](https://github.com/Reportcard) (Previously ReportCard)
 
