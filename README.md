@@ -84,6 +84,9 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - Participated in Hackathon Run May 2024 conducted by Persistent Systems.
 - Participated in Focus On Code by K. Ramakrishnan College of Engineering on Unstop.
 
+## ⚡ Fun fact:
+I can walk for miles without getting tired.
+
 ## 📫 How to reach me
 
 Let's connect and collaborate! You can find me on:
