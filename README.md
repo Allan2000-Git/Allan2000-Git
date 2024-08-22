@@ -51,8 +51,6 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - **Frontend:**  HTML5, CSS3, Bootstrap, JavaScript, Tailwind CSS, React.js, Redux Toolkit, TypeScript, Next.js.
 - **Backend:** REST APIs, Node.js/Express.js, MongoDB, Postgres.
 - **Tools:** Git, GitHub, Figma, JIRA, Linear.
-- **UI/Visual Design:** Creating elegant and user-centric designs with a keen eye for aesthetics using Figma & Adobe XD.
-- **User Experience (UX):** Ensuring a seamless and intuitive user journey through thoughtful UX design.
 
 ## 🔧 Technologies and Tools
 
