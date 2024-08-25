@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## 💼 Work
 
 - Software Engineer I - Frontend at [Classcard](https://github.com/Reportcard) (Previously ReportCard)
+  - Currently building a mobile app for Classcard, providing enrolled students with a seamless transition from the desktop version.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - <strong>Product:</strong>
