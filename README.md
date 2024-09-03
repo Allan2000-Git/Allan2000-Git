@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
-- Software Engineer I - Frontend at [Classcard](https://github.com/Reportcard) (Previously ReportCard)
+- Software Engineer I - Frontend at [Classcard](https://classcardapp.com/) (Previously ReportCard)
   - Currently building a mobile app for Classcard, providing enrolled students with a seamless transition from the desktop version.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
-  - <strong>Product:</strong>
-  - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
-  - Demonstrated technical proficiency in meeting project requirements.
-  - <strong>Marketing:</strong>
-  - Achieved rapid page loads, 7% higher mobile engagement, and seamlessly integrated a custom CMS.
-  - Collaborated on SEO, yielding a 5% surge in organic traffic.
+  - **Product:**
+    - Crafted UI with Next.js, optimizing front-end performance and resolving JIRA issues.
+    - Demonstrated technical proficiency in meeting project requirements.
+  - **Marketing:**
+    - Achieved rapid page loads, 7% higher mobile engagement, and seamlessly integrated a custom CMS.
+    - Collaborated on SEO, yielding a 5% surge in organic traffic.
  
 - Founding Member - Web Developer & Designer at [Swavy](https://swavy.in/)
   - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
