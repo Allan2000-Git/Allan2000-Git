@@ -93,23 +93,23 @@ I can walk for miles without getting tired.
 
 Let's connect and collaborate! You can find me on:
 
-<div id="badges" style="margin-bottom:30px; display:flex; gap:40px; text-decoration:none">
-  <a href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
+<div id="badges" style="margin-bottom:30px; display:flex; gap:40px;">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/allan-joston-fernandes-712593192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Allan2000-Git/">
+  <a style="text-decoration: none;" href="https://github.com/Allan2000-Git/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="mailto:allanfernandes459@gmail.com">
+  <a style="text-decoration: none;" href="mailto:allanfernandes459@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://www.behance.net/allanfernandes6">
+  <a style="text-decoration: none;" href="https://www.behance.net/allanfernandes6">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 <!--   <a href="https://www.hackerrank.com/allanfernandes41">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a> -->
-  <a href="https://twitter.com/allan_ferns10">
+  <a href="https://x.com/allan_ferns10">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
