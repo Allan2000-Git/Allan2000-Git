@@ -109,7 +109,7 @@ Let's connect and collaborate! You can find me on:
 <!--   <a href="https://www.hackerrank.com/allanfernandes41">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a> -->
-  <a href="https://x.com/allan_ferns10">
+  <a style="text-decoration: none;" href="https://x.com/allan_ferns10">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
