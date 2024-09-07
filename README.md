@@ -37,7 +37,8 @@ Here are some ideas to get you started:
  
 - Software Engineer Intern at [Coding Key LLP](https://www.linkedin.com/company/coding-key-llp)
   - Led cross-functional team to build NBA points calculation app using MERN Stack.
-  - Implemented CRUD functionality and dynamic data visualization with MongoDB.
+  - Implemented CRUD functionality, dynamic data visualization with MongoDB charts & & EJS template engines for SSR.
+  - Optimized query performance through MongoDB aggregation pipelines.
   - Achieved 60% time savings, streamlining academic processes.
  
 ## 🌱 Currently Exploring
