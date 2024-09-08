@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - Led cross-functional team to build NBA points calculation app using MERN Stack.
   - Implemented CRUD functionality, dynamic data visualization with MongoDB charts & & EJS template engines for SSR.
   - Optimized query performance through MongoDB aggregation pipelines.
-  - Achieved 60% time savings, streamlining academic processes.
+  - Reduced 60% of manual processing, streamlining academic processes.
  
 ## 🌱 Currently Exploring
 
