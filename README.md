@@ -83,7 +83,7 @@ I'm constantly learning and expanding my skill set. Right now, I'm diving deeper
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
 
 ## Achievements
-- Participated in Hacktoberfest for consecutive 3 years.
+- Participated in Hacktoberfest for consecutive 4 years.
 - Participated in MLH Hackathon and was shortlisted under Top 50 teams.
 - Participated in TechGig Code Gladiators 2023.
 - Participated in Hackathon Run May 2024 conducted by Persistent Systems.
