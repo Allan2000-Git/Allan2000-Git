@@ -1,7 +1,7 @@
 # Hey there, I'm Allan Joston Fernandes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />
 [![An image of @allan1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/allan1011)](https://holopin.io/@allan1011)
 
-A passionate Software Engineer - Frontend and UI/UX Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
+A passionate Frontend Software Engineer and UI/UX Designer dedicated to creating exceptional digital experiences with a love for clean code and elegant solutions. My journey in the world of technology has been an exciting one, and I'm here to share some of the highlights with you.
 
 <!--
 **Allan2000-Git/Allan2000-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
