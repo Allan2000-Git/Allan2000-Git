@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     - Demonstrated technical proficiency in meeting project requirements.
   - **Marketing:**
     - Achieved rapid page loads, 7% higher mobile engagement, and seamlessly integrated a custom CMS.
-    - Collaborated on SEO, yielding a 5% surge in organic traffic.
+    - Improved page load times, delivered 50+ SEO-optimized pages, achieving 92% core web vitals for both desktop and mobile, yielding a 5% surge in organic traffic.
  
 - Founding Member - Web Developer & Designer at [Swavy](https://swavy.in/)
   - As a core team member, designed captivating UI/visuals for desktop and mobile platforms, earning ”Best Design” accolades.
