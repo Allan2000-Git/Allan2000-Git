@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Software Engineer I - Frontend at [Classcard](https://classcardapp.com/)
   - Currently building a mobile app for Classcard, providing enrolled students with a seamless transition from the desktop version.
   - Implmenting virtualization for better rendering performance, event bus for efficient data flow.
-  - Tech Stack: Ionic Framework (mobile app), Angular.js, Vue.js, TypeScript
+  - Tech Stack: Ionic Framework, Angular.js, Vue.js, TypeScript, Node.js.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - **Product:**
