@@ -54,7 +54,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 - **Programming:** Java, Python.
 - **Frontend:**  HTML5, CSS3, Bootstrap, JavaScript, Tailwind CSS, React.js, Redux Toolkit, TypeScript, Next.js.
-- **Backend:** REST APIs, Node.js/Express.js, MongoDB, Postgres.
+- **Backend:** REST APIs, Node.js, Express.js, MongoDB, Postgres.
 - **Tools:** Git, GitHub, Figma, JIRA, Linear.
 
 ## 🔧 Technologies and Tools
