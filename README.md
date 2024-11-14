@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ## 💼 Work
 
 - Software Engineer I - Frontend at [Classcard](https://classcardapp.com/)
-  - Currently building a mobile app for Classcard, providing enrolled students with a seamless transition from the desktop version.
-  - Implmenting virtualization for better rendering performance, event bus for efficient data flow.
+  - Translated Figma designs into pixel-perfect, responsive UIs, ensuring high visual accuracy and accessibility.
+  - Optimized core web vitals and accessibility, enhancing user experience and meeting compliance standards.
   - Tech Stack: Ionic Framework, Angular.js, Vue.js, TypeScript, Node.js.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
