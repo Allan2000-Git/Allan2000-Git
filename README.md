@@ -42,7 +42,6 @@ Here are some ideas to get you started:
   - Implemented CRUD functionality, dynamic data visualization with MongoDB charts & & EJS template engines for SSR.
   - Optimized query performance through MongoDB aggregation pipelines.
   - Reduced 60% of manual processing, streamlining academic processes.
-  - Improved performance with usage of Node.js clusters & streams.
  
 ## 🌱 Currently Exploring
 
