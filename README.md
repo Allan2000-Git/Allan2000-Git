@@ -77,7 +77,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-## Coding Profiles
+## 👨‍💻 Coding Profiles
 - Leetcode: https://leetcode.com/allanjoston/
 - HackerRank: https://www.hackerrank.com/allanfernandes41
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
