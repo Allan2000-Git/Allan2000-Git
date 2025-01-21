@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - Software Engineer I - Frontend at [Classcard](https://classcardapp.com/)
   - Translated Figma designs into pixel-perfect, responsive UIs, ensuring high visual accuracy and accessibility.
   - Optimized core web vitals and accessibility, enhancing user experience and meeting compliance standards.
-  - Collaborated closely with Product Designers and Backend Engineers to define and refine UI and API requirements, ensuring seamless integration and user experience.
+  - Collaborated closely with Product Designers and Backend Engineers to define and refine UI and API requirements, ensuring seamless integration and UX.
+  - Resolved memory leaks effectively by disconnecting observers, unsubscribing from observables, and implementing optimized cleanup processes.
   - Tech Stack: Ionic Framework, Angular.js, Vue.js, TypeScript, Node.js.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
@@ -78,10 +79,12 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
+<!--
 ## 👨‍💻 Coding Profiles
 - Leetcode: https://leetcode.com/allanjoston/
 - HackerRank: https://www.hackerrank.com/allanfernandes41
 - GeeksforGeeks: https://auth.geeksforgeeks.org/user/allanfernandes459/
+-->
 
 ## 🎯 Achievements
 - Participated in Hacktoberfest for consecutive 4 years.
