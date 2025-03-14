@@ -87,6 +87,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 -->
 
 ## 🎯 Achievements
+- Open Source Contributor
 - Participated in Hacktoberfest for consecutive 4 years.
 - Participated in MLH Hackathon and was shortlisted under Top 50 teams.
 - Participated in TechGig Code Gladiators 2023.
