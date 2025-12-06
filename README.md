@@ -73,9 +73,13 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/Allan2000-Git/github-profile-trophy)
 
-[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2000-Git&show_icons=true&theme=radical)](https://github.com/Allan2000-Git/github-readme-stats) 
+<!-- [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2000-Git&show_icons=true&theme=radical)](https://github.com/Allan2000-Git/github-readme-stats) -->
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=onedark)](https://github.com/Allan2000-Git)
+[![Allan's GitHub Streak](https://streak-stats.demolab.com/?user=Allan2000-Git)](https://git.io/streak-stats)
+
+<!-- [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=onedark)](https://github.com/Allan2000-Git) -->
+
+[![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)]
 
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
