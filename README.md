@@ -79,7 +79,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 <!-- [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=onedark)](https://github.com/Allan2000-Git) -->
 
-[![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)
+[![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)](https://githubcard.com/)
 
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
@@ -92,7 +92,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 ## 🎯 Achievements
 - Open Source Contributor
-- Participated in Hacktoberfest for consecutive 4 years.
+- Participated in Hacktoberfest for consecutive 5 years.
 - Participated in MLH Hackathon and was shortlisted under Top 50 teams.
 - Participated in TechGig Code Gladiators 2023.
 - Participated in Hackathon Run May 2024 conducted by Persistent Systems.
