@@ -81,7 +81,9 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 [![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)](https://githubcard.com/)
 
-[![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in) -->
+
+![Allan's GitHub Visiter Count](https://komarev.com/ghpvc/?username=Allan2000-Git&abbreviated=true)
 
 <!--
 ## 👨‍💻 Coding Profiles
