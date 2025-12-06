@@ -79,7 +79,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 <!-- [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2000-Git&layout=compact&theme=onedark)](https://github.com/Allan2000-Git) -->
 
-[![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)]
+[![Allan's GitHub Stats](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)](https://githubcard.com/Allan2000-Git.svg?d=hGgd5pKQ)
 
 [![](https://visitcount.itsvg.in/api?id=allan&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
