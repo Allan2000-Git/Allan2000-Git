@@ -127,6 +127,3 @@ Let's connect and collaborate! You can find me on:
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
-
-
-#### I'm excited to explore new opportunities, learn from fellow developers and designers, and continue creating beautiful and functional digital solutions. Let's work together to make the web a more delightful place!
