@@ -71,7 +71,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 ## 🏆 Github Trophy Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Allan2000-Git&margin-w=15&margin-h=15&theme=juicyfresh)](https://github.com/Allan2000-Git/github-profile-trophy)
+![Github Trophies](https://github-trophies.vercel.app/?username=yourusername)
 
 <!-- [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2000-Git&show_icons=true&theme=radical)](https://github.com/Allan2000-Git/github-readme-stats) -->
 
