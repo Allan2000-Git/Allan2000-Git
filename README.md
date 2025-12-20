@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - Optimized core web vitals and accessibility, enhancing user experience and meeting compliance standards.
   - Collaborated closely with Product Designers and Backend Engineers to define and refine UI and API requirements, ensuring seamless integration and UX.
   - Resolved memory leaks effectively by disconnecting observers, unsubscribing from observables, and implementing optimized cleanup processes.
-  - Tech Stack: Ionic Framework, Angular.js, Vue.js, TypeScript, Node.js.
+  - Tech Stack: Ionic Framework, Angular.js, Vue.js, Nuxt, TypeScript, Node.js.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - **Product:**
