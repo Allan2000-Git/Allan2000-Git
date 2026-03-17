@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 💼 Work
 
-- Software Engineer - Frontend at [Classcard](https://classcardapp.com/)
+- Senior Software Engineer - Frontend at [Classcard](https://classcardapp.com/)
   - Translated Figma designs into pixel-perfect, responsive UIs, ensuring high visual accuracy and accessibility.
   - Optimized core web vitals and accessibility, enhancing user experience and meeting compliance standards.
   - Collaborated closely with Product Designers and Backend Engineers to define and refine UI and API requirements, ensuring seamless integration and UX.
