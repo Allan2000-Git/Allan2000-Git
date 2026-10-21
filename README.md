@@ -89,7 +89,7 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 ![Allan's GitHub Visiter Count](https://komarev.com/ghpvc/?username=Allan2000-Git)
 
-![Allan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Allan2000-Git&theme=github-compact)
+![Allan's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=Allan2000-Git&theme=github)
 
 <!--
 ## 👨‍💻 Coding Profiles
