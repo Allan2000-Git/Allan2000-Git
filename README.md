@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 ## 💼 Work
 
 - Senior Software Engineer at [Classcard](https://classcardapp.com/)
-  - Translated Figma designs into pixel-perfect, responsive UIs, ensuring high visual accuracy and accessibility.
-  - Optimized core web vitals and accessibility, enhancing user experience and meeting compliance standards.
-  - Collaborated closely with Product Designers and Backend Engineers to define and refine UI and API requirements, ensuring seamless integration and UX.
-  - Resolved memory leaks effectively by disconnecting observers, unsubscribing from observables, and implementing optimized cleanup processes.
-  - Tech Stack: Ionic Framework, Angular.js, Vue.js, Nuxt, TypeScript, Node.js.
+  - Reduced calendar rendering from 6.5s to 34ms and achieved INP below 50ms on large datasets.
+  - Implemented npm prerelease workflows for safer component library releases. [Technical blog](https://medium.com/@allanfernandes459/npm-prerelease-tags-test-component-library-changes-c7d863b88cd2)
+  - Building internal AI tools to automate developer workflows.
+  - Developing MCP tooling to improve component discovery and AI-assisted development.
+  - Working on compliance, leave management, and payroll features.
+  - Built a reusable SCSS component system with Storybook.
+  - Automated white-label builds and deployments using Fastlane; rolling out OTA updates via Appflow.
+  - Improved Angular performance through lazy loading, NGXS, event-driven communication, and memory leak fixes.
 
 - Frontend Developer at [ClearFeed](https://www.linkedin.com/company/clearfeed/)
   - **Product:**
