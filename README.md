@@ -54,13 +54,6 @@ I'm constantly learning and expanding my skill set. My current tech stack includ
 
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🚀 My Superpowers
-
-- **Programming:** Java, Python.
-- **Frontend:**  HTML5, CSS3, JavaScript, TypeScript Tailwind CSS, React.js, Redux Toolkit, Next.js, Vue.js, Nuxt.js, Angular.js.
-- **Backend:** Node.js, Express.js, MongoDB, Postgres.
-- **Tools:** Git, GitHub, Figma, JIRA, Linear, Zeplin.
-
 ## 🔧 Technologies and Tools
 
 **Frontend Development:**
